@@ -1,0 +1,358 @@
+<part>
+  <para>
+    Záblesk budoucosti nám, mnohem spíše než internetem zběhlí hudebníci,
+    zprostředkuje obor <preklad id="software" pad="1"/>. Nejlepší ukázkou
+    světa bez copyrightu je totiž zřejmě iniciativa <preklad
+    id="free_software" pad="1"/>, jež v současné době zažívá svůj
+    rozkvět. <preklad id="free_software" pad="4" velke="true"/> (někdy též
+    nazývaný "Open Source") je duchovním dítětem Richarda Stallmana. Tento
+    programátor přišel s nápadem vydávat programy pod licencí, která copyright
+    záměrně obrací. Místo toho, aby zakazovala sdílení, jej výslovně povoluje
+    a vybízí k němu. Tuto myšlenku si brzy oblíbilo mnoho dalších
+    programátorů. Díky tomu, že měli možnost sdílet své programy a bez omezení
+    upravovat programy, které napsali ostatní, vzniklo brzy velké množství
+    fungujícího kódu (<footnote><para>Pojmem "kód" se v této souvislosti
+    rozumí "text programu". Pozn. překl.)</para></footnote>
+  </para>
+
+  <para>
+    Ozývaly se hlasy, že s tím, jak poroste velikost a složitost programů,
+    tento počáteční vzestup rychle ustane a že bude zapotřebí řídit práci
+    centralizovaně a hierarchicky. Sektor <preklad id="free_software"
+    pad="2"/> však neztroskotal, naopak se rychle rozvinul. Tak rychle, že to
+    překvapilo i samotné programátory, kteří se do této iniciativy
+    zapojili. Navíc nic nenasvědčuje tomu, že by tento vývoj měl
+    ustat. Programy, které tímto způsobem vznikají, konkurují programům
+    <preklad id="proprietary_plural" pad="3"/>. <preklad id="free_software"
+    pad="4" velke="true"/> ve velké míře využívají banky, státní úřady i
+    jednotliví uživatelé počítačů. Server Apache, který také patří do této
+    kategorie, se používá na větším počtu webů, než všechny ostatní servery
+    dohromady <footnote><para>Podíl webových serverů na trhu se neustále
+    mění. Pokud chceme vyhodnotit podíl webových serverů z kategorie "open
+    source" na trhu dnes, je potřeba kromě Apache vzít v úvahu také server
+    Nginx. Pozn. překl.</para></footnote>. Operační systémy z kategorie
+    <preklad id="free_software" pad="1"/> jsou na trhu operačních systémů
+    nejrychleji rostoucím segmentem. Někteří programátoři jsou za práci na
+    <preklad id="free_software" pad="6"/> placeni (tato práce v důsledku
+    přináší prospěch uživatelům, z nichž někteří jsou ochotni za ni platit),
+    jiní to dělají ve svém volném čase. Každý softwarový projekt má svůj důvod
+    k existenci a stejně tak má i každý programátor své důvody, proč do něj
+    přispívá. V souhrnu zde však vidíme okázalé ignorování důvodů k existenci
+    copyrightu. Vzkvétající komunita, která produkuje intelektuální hodnoty,
+    teď existuje bez toho, že by si vynucovala regulaci kopírování. A přesto
+    dosahuje v podstatě stejných výsledků, jako její <preklad
+    id="mainstream_adj" pad="1"/> protějšek.
+  </para>
+
+  <para>
+    Podle tradičního zdúvodňování copyrightu by se následující nemělo
+    dít. <preklad id="free_software" pad="1" velke="true"/> má ze své podstaty
+    statut <preklad id="public_domain" pad="1"/>; copyright slouží především k
+    identifikaci původního autora a v některých případech chrání program před
+    aplikováním přísnějších licenčních podmínek. Autoři se vzdávají všech
+    výlučných práv na dílo, kromě práva označit se za autora. Dobrovolně se
+    tak vrací do světa, jak vypadal před zavedením legislativy copyrightu:
+    nevyžadují žádné autorské poplatky a nesnaží se řídit distribuci svého
+    díla ani jeho úpravy. Licence dává každému automaticky právo jak k užívání
+    programu tak k jeho dalšímu šíření. Kopie můžete rozdávat okamžitě, aniž
+    byste museli cokoliv oznamovat nebo někoho žádat o svolení. Stejně tak vám
+    nic nebrání v úpravách programu. Můžete ho dokonce i prodávat, ačkoliv
+    cena přirozeně nebude vysoká - vaši konkurenti totiž mohou stejné zboží
+    nabízet zdarma. Obvyklejší model vypadá tak, že uživatele vybízíte ke
+    stažení programu zdarma a namísto licencí jim prodáváte služby jako
+    technická podpora, školeni nebo úpravy programu. (Obchodní) modely tohoto
+    typu nejsou fantazie. Jsou základem ziskového podnikání, které již
+    existuje, a z něhož mají programátoři pracující na vývoji <preklad
+    id="free_software" pad="2"/> slušné příjmy. Plat však v tomto případě není
+    rozhodující - někteří ho dostávají, ale mnozí další ne a přesto i oni na
+    <preklad id="free_software" pad="6"/> pracují. Rozhodující je, že
+    každoročně vzniká a dále se zdokonaluje obrovské množství <preklad
+    id="free_software" pad="2"/>. Toto množství rost rychle i ve srovnání s
+    produkcí, na jakou jsme v softwarovém průmyslu zvyklí.
+  </para>
+
+  <para>
+    Pokud by se tento fenomén omezil na software, dal by se vysvětlit jako
+    anomálie - software je něco speciálního, programátoři jsou dobře placení
+    atd. Pouze o software se však nejedná. Podíváte-li se na situaci důkladně,
+    uvidíte obdobné náznaky všude. Hudebníci začínají zveřejňovat své nahrávky
+    ke stažení zdarma a množství literatury, která je na Internetu též zdarma
+    - od návodů a beletrie, po fikci a poezii - se už dávno dostalo za
+    hranici, kde ho lze ještě změřit. Počítačový program se od ostatních forem
+    informace nijak zásadně neliší. Podobně jako básně, písně, knihy nebo
+    filmy, ho lze přenášet v digitální formě. Kopírovat lze buď celek, nebo
+    jen jeho části. Konkrétní výňatek lze použít v jiném díle, je možné ho
+    upravovat a dělat korektury a dokonce si z něj dělat legraci.
+  </para>
+
+  <para>
+    Pokud jde o odklon od copyrightu, není software tak napřed proto, že by
+    byl jakkoliv zvláštní ve své podstatě. Důvod tkví především v tom, že
+    programátoři byli jednou z prvních skupin, která měla přístup k
+    Internetu. I tvůrci v dalších oblastech teď postupně zjišťují, že mohou
+    svou práci šířit bez vydavatelů a bez centralizovaných distribučních
+    řetězců - prostě tak, že ponechají svobodu ke kopírování. A toto řešení
+    volí ve stále větší míře. Jednak nemají mnoho co ztratit a jednak je to
+    nejsnazší způsob, jak si dílo může najít cestu k publiku, které jej
+    ocení. Nejsou-li tvůrci na legislativě copyrightu žádným smysluplným
+    způsobem závislí, získají nejvíce, když její monopol opustí.
+  </para>
+
+  <para>
+    Zmíněné trendy už ve své rané fázi vyvolávaly pochopitelnou
+    otázku. Jestliže copyright k podněcování původní tvorby skutečně
+    nepotřebujeme, k čemu tedy má v současné době sloužit? Je celkem jasné, že
+    kdyby copyright neexistoval v minulosti, nyní bychom ho již
+    nevymýšleli. Sami jsme právě dobudovali obří kopírovací stroj (Internet),
+    jenž slouží také jako komunikační zařízení a - jen tak mimochodem -
+    umožňuje pohodlné převody malých finančních obnosů. Sdílení je teď ta
+    nejpřirozenější věc na světě. Názor, že tento aparát umělce nějakým
+    způsobem poškozuje, je falešný. Denně to potvrzují tisíce nových prací,
+    které se na Internetu objevují - autenticky a s plným vědomím autorů a
+    přesto k dispozici zdarma. Pokud by někdo chtěl namítat, že bez okamžitého
+    zavedení systému striktní kontroly nad tím, kdo a co smí kopírovat, pramen
+    kreativity vyschne, oprávněně bychom ho považovali za šílence. Nicméně
+    přesně takto - třebaže poněkud diplomatičtějším jazykem - argumentuje
+    copyrightová lobby, když tlačí na další zpřísňování zákonů.
+  </para>
+
+  <para>
+    O kreativitu zde ale nejde a - v záchvěvech upřímnosti - to takticky
+    přiznávají i představitelé vydavatelského průmyslu. Ačkoliv pro účely
+    <preklad id="public_relations" pad="4"/> vydávají tito lidé zásadní
+    prohlášení o chudých umělcích, kteří si potřebují vydělat na živobytí, ta
+    nejpodrobnější a nejpřesvědčivější tvrzení obvykle hovoří o významu
+    copyrightu pro obchod. Deník <emphasis>New York Times</emphasis> zveřejnil
+    5. ledna 2003 následující výrok Larryho Kenswila ze společnosti
+    <emphasis>Universal Music Group</emphasis> (největší nahrávací společnost
+    na světě) na téma (technická) opatření proti digitálnímu kopírováni:
+    "Nekupujete si hudbu, nýbřž klíč. Přesně o to jde při správě práv v
+    digitálním světě: umožnit existenci obchodníhch modelů."
+  </para>
+
+  <para>
+    Těžko si představit krédo (vydavatelského) průmyslu ve stručnějším
+    znění. Snad mohl říci: "Přesně k tomu slouží copyright: umožňuje existenci
+    obchodních modelů."
+  </para>
+
+  <para>
+    Bohužel ne vždy je propaganda, kterou vydavatelský průmysl prezentuje, tak
+    přímočará a upřímná, jako to, co řekl pan Kenswil. Například asociace
+    <emphasis>RIAA</emphasis> (<emphasis>(Recording Industry Association of
+    America</emphasis>, <emphasis>Americká asociace nahrávacích
+    společností</emphasis>, pozn. překl.) vysvětluje na svých webových
+    stránkách (http://www.riaa.org/) copyright takto:
+  </para>
+
+  <para>
+    <blockquote>
+      <para>
+	K tomu, abyste byl(a) hudebníkem, není nutné, abyste se nejprve
+	stal(a) právníkem. Jeden pojem byste ale znát měl(a): copyright. Na
+	tomto fenoménu velice záleží všem umělcům, kteří něco tvoří -
+	básníkům, výtvarníkům, spisovatelům, tanečníkům, režisérům,
+	hudebníkům, zpěvákům a autorům písní. Pro všechny umělce je
+	"copyright" více než pojem ze zákona o itelektuálním vlastnictví, jenž
+	zakazuje neautorizovné kopírování, provozování a šíření výsledků
+	tvůrčí práce. Pro ně "copyright" znamená možnost zdokonalovat se ve
+	svých dovednostech, experimentovat, tvořit a rozvíjet se. Je to právo
+	životní důležitosti a umělci po staletí bojovali za jeho
+	zachování. Řeč je o umělcích jako John Milton, William Hogarth, Mark
+	Twain nebo Charles Dickens. Twain se kvůli ochraně svých práv vydal do
+	Anglie, zatímco Dickens ze stejného důvodu přicestoval do Ameriky.
+      </para>
+    </blockquote>
+  </para>
+
+  <para>
+    Poznáváte to? To je stránka ze scénáře <preklad id="stationers" pad="2"/>
+    - nezastírané převyprávění mýtu o copyrightu, doplněné o odkazy na
+    konkrétní autory. Vše je formulováno se záměrem získat naši podporu pro
+    lopotící se umělce, kteří odhodlaně bojují za svou uměleckou integritu.
+    Nezdá se, že by výraz "všichni umělci, kteří něco tvoří" v pojetí asociace
+    <emphasis>RIAA</emphasis> zahrnoval všechny umělce v průběhu dějin, kteří
+    se bez copyrightu docela dobře obešli. Komentář profesora Pattersona o
+    tom, jak se <preklad id="stationers" pad="1"/> obdobným způsobem
+    schovávali za umělce, když stáli před anglickým parlamentem osmnáctého
+    století, se dá stejně dobře aplikovat i na současnost: "Schovávali se
+    (<preklad id="stationers" pad="1"/>) používáním argumentů, jež měly
+    evokovat sympatie s autorem (přičemž spokojeně mlčeli o své roli v uvedení
+    autora do stejné mizerie, nad kterou sami lamentovali), a tím, že
+    ignorovali logiku i zdravý rozum." <footnote><para>Patterson, viz
+    výše.</para></footnote>.
+  </para>
+
+  <para>
+    Další odstavec úvodu do copyrightu v podání <emphasis>RIAA</emphasis> je
+    ještě horší. Je to stručné, resp. velmi stručné seznámení s původem
+    legislativy copyrightu. Sice obtěžkané důrazem na historickou
+    nevyhnutelnost, avšak poněkud vágní, jde-li o fakta.
+  </para>
+
+  <para>
+    <blockquote>
+      <para>
+	Legislativa copyrightu jako taková začala <preklad
+	id="statute_of_anne" pad="7"/>. Tento první zákon o copyrightu byl
+	schválen britským parlamentem roku 1709, ale principy ochrany práv
+	umělců existovaly už dříve. Na první pohled to možná zní jako suchá
+	historie, nicméně v okamžiku, kdy byla formulována práva, která je
+	potřeba chránit, a kdy bylo možné v této věci ustanovit precedens,
+	začaly právní bitvy. Ty si za dobu několika staletí vyžádaly značné
+	množství času, úsilí a peněz.
+      </para>
+    </blockquote>
+  </para>
+
+  <para>
+    V tomto udýchaném <!-- nebo spíš "upoceném" ? --> souhrnu má copyright
+    svou obdobu tvrzení "Kryštof Kolumbus plul do Ameriky, aby dokázal, že
+    Země je kulatá, a aby navázal přátelství s indiány". Ano, v právních
+    bitvách byla skutečně utracena spousta peněz. <emphasis>RIAA</emphasis> si
+    však dává dobrý pozor, aby neřekla, kdo tyto peníze utratil. A už vůbec
+    neuvádí podrobnosti o "principech ochrany práv umělců", jež údajě
+    předcházely dalšímu vývoji.
+  </para>
+
+  <para>
+    Až do konce se jejich prezentace line ve stejném duchu. Přitom obsahuje
+    tolik zámlk, zkreslených vysvětlení i naprostých lží, že je těžké si
+    představit, jak toto mohl napsat člověk, který problematiku alespoň trochu
+    zkoumal. Ve své podstatě je to přízemní propaganda vedená v rámci
+    dlouhodobé kampaně, která se snaží přesvědčit veřejnost, že copyright je
+    pro civilizaci stejně fundamentální jako zákony termodynamiky.
+  </para>
+
+  <para>
+    <emphasis>RIAA</emphasis> si také libuje v jedné z nejpopulárnějších
+    taktik moderní copyrightové lobby: zaměňování nelegálního kopírování s
+    věcí, která s ním nesouvisí a která je mnohem závažnější:
+    plagiátorství. Například Hilary Rosenová (dnes již bývalá) předsedkyně
+    asociace <emphasis>RIAA</emphasis> promlouvala ke studentům škol a
+    univerzit a naléhala na ně, aby pohled vydavatelského průmyslu na
+    vlastniký vztah k informacím vzali za svůj. Toto je popis situace, který
+    prezentovala ona sama:
+  </para>
+
+  <para>
+    <blockquote>
+      <para>
+	Nejlépe pomohou přirovnání. Zeptám se: "Co jste dělali minulý
+	týden?". Odpoví třeba, že psali práci o tom nebo onom. A já řeknu:
+	"Aha, takže jste napsali práci a dostali za ni výbornou? A nevadilo by
+	vám, kdyby tuto práci někdo vzal a dostal za ni výbornou i on?". Smysl
+	pro osobní investici v lidech nachází pozitivní odezvu.
+      </para>
+    </blockquote>
+  </para>
+
+  <para>
+    Protože však lidé při kopírování CD obvykle nenahrazují jméno umělce
+    jménem svým, položme otázku tak, jak to měla správně udělat Hilary
+    Rosenová: "Vadilo by vám, kdyby někdo ukazoval ostatním kopii vaší práce,
+    takže by přinesla prospěch i jim a přitom by viděli i to, že jste za ni
+    dostali výbornou?" Na to by studenti samozřejmě odpověděli: "Ne, tohle by
+    nás vůbec netrápilo." To však není odpověď, kterou chtěla Rosenová slyšet.
+  </para>
+
+  <para>
+    <emphasis>RIAA</emphasis> je extrémní jen v neohrabanosti, s jakou vede
+    svou propagandu. Sdělení je ale v jádru totožné s tím, co vysílá celý
+    zbytek copyrightového průmyslu: neustálý příval upozornění, že vzájemné
+    vyměňování digitálního obsahu připraví umělce o reputaci a o možnost
+    pracovat. To vše navzdory nezvratným důkazům, že copyright jim stejně
+    mnoho živobytí nikdy nepřinášel, a že by i bez něj vesele tvořili dál,
+    pokud by měli možnost svou práci distribuovat. Jak jsem to dosud popsal,
+    by celá kampaň snad mohla znít neškodně a pošetile. Protože však
+    vydavatelé bojují o přežití a přitom stále mají k dispozici značné
+    rozpočty i protřelá mediálními oddělení, podařilo se jim v překvapivé míře
+    zformovat veřejné mínění. Považte následující svědectví jedné nešťastné
+    ženy, jak je 11. září 2003 zveřejnil <emphasis>International Herald
+    Tribune</emphasis> v článku o soudních sporech, které vede
+    <emphasis>RIAA</emphasis> kvůli sdílení souborů:
+  </para>
+
+  <para>
+    <blockquote>
+      <para>
+	Jedna žena, která obdržela obsílku od asociace nahrávacích společnosti
+	(a která s ohledem na svou právní situaci odmítla sdělit své jméno),
+	řekla, že svému třináctiletému synovi jen těžko vysvětlovala, proč je
+	sdílení souborů špatné.
+      </para>
+      <para>
+	"Řekla jsem: 'Představ si, že jsi napsal písničku. Pak ji začala hrát
+	slavná rocková skupina a nic ti nezaplatila.' Syn řekl: 'To by bylo
+	ohromné. Neřešil bych to.'  Dětem v tomto věku na penězích prostě
+	nezáleží."
+      </para>
+      <para>
+	Úspěchu prý měla, až když použití cizí písně přirovnala k podvrhu
+	školní práce.
+      </para>
+    </blockquote>
+  </para>
+
+  <para>
+    (V to, aby si vnímavý třináctiletý chlapec zachoval hlavu i v situaci, kdy
+    ji mnozí kolem ztrácí, se dá jedině doufat.)
+  </para>
+
+  <para>
+    Sále ještě přetrvávající náklonnost veřejnosti a s ní dostatek
+    finančnímich prostředků bohužel umožnily copyrightovému průmyslu vybudovat
+    si nebezpečný vliv v legislativní sféře. Výsledkem je znepokojivý trend:
+    vzájemně se posilující fyzické a právní bariéry. Ty jsou sice vydávány za
+    prostředek boje s nelegálním kopírováním, nevyhnutelně však postihují
+    kopírování jako takové. Strategie digitální ochrany proti kopírování se
+    stále častěji realizují ne jako program, který lze odstranit nebo
+    nahradit, ale na úrovni hardwaru - tzn. jsou zabudované přímo ve vašem
+    počítači. A společnosti, kterým patří obsah, často vyrábí i hardware, jenž
+    umožňuje jeho distribuci. Nekoupili jste si náhodou počítač značky Sony? A
+    co takhle CD od hudební divize společnosti Sony? Obojí je ta samá firma,
+    přičemž její levá ruka ví, co dělá pravá. A ve spolupráci s vládou toto
+    spojení nabývá ještě větší síly. Zde ve Spojených státech teď máme zákon
+    zvaný <emphasis>Digital Millennium Copyright Act</emphasis>, jenž staví
+    snahy obejít ochranu proti kopírování mimo zákon. Trestné je dokonce i
+    psaní programů, které s odstraněním této ochrany pomohou někomu
+    jinému. Bohužel leckteré typy hardwaru i softwaru automaticky zapisují
+    informace sloužící k ochraně na veškerá média, na něž zapisují. Tím
+    zmíněný zákon účinně potlačuje autorizované kopírování a mnoho dalších
+    aktivit, které - podle současné legislativy copyrightu - jinak spadaly do
+    kategorie "dovolené užití".
+  </para>
+
+  <para>
+    Je velmi důležité pochopit, že tyto vedlejší jevy nejsou nedopatření ani
+    neočekávané důsledky jinak dobře míněného usilí, směřujícího k ochraně
+    umělců. Mnohem spíše jsou nedílnou součástí strategie, jež ve výsledku
+    nemá nic společného s podněcováním kreativity. Smysl tohoto "trojzubého"
+    úsilí (copyrightového) průmyslu - tzn. veřejné kampaně, legislativní
+    kampaně a hardwarové "ochrany" - je prostě zabránit tomu, aby byl
+    internetový experiment doveden do konce. Žádná organizace, je-li hluboce
+    zaintersovaná v konceptu kontroly kopírování, nemůže mít radost ze vzniku
+    systému, který zjednodušuje kopírování na jediné kliknutí myši. Taková
+    firma si bude do nejzazší možné míry přát pokračování v modelu, který
+    známe už po několik staletí: platba za každou jednotlivou kopii. A to i
+    přesto, že se změnila fyzikální podatata informace a model placení za
+    kopii zastaral.
+  </para>
+
+  <para>
+    Copyrightová lobby s úspěchem prosazuje další zákony a vyhrává i některé
+    soudní spory, tato vítězství však spočívají na rozpadajících se
+    základech. Jak dlouho ještě bude společnost věřit mýtu copyrightu a dojmu,
+    že copyright byl vynalezen proto, aby umožnil tvůrčí práci? Tento mýtus se
+    dal zatím udržovat proto, že měl v sobě nepatrné zrnko pravdy: třebaže
+    copyright nebyl inspirovaný autory a nebyl uzákoněn na jejich ochranu,
+    umožnil masové rozšíření celé řady originálních děl. Kromě toho stále
+    existuje mnoho vydavatelů (obecně jde o ty menší a ty, které vlastní
+    jednotlivci), kteří chovají obdivuhodný smysl pro službu kultuře: dotují
+    nevýdělečná, ale přitom důležitá díla z peněz, které vydělali prodejem
+    těch úspěšnějších. A někdy vydávají hodnotná díla i za cenu evidentní
+    finanční ztráty. Protože se však nikdo z nich nemůže oprostit od ekonomie
+    tisku ve velkých nákladech, jsou všichni v konečném důsledku odkázaní na
+    copyright.
+  </para>
+</part>

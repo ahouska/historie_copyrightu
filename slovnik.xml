@@ -1,0 +1,166 @@
+<!--
+    Nasledujici pojmy je potreba "doladit". Idealni by bylo najit je v ceske
+    literature. Pokud to uz nekdo prelozil, je to zrejme jen v odbornych
+    pravnickych publikacich.
+-->
+<slovnik>
+  <termin id="copyright" velke="C">
+    <!--
+	XXX
+	Ma se specialne tento termin pokazde vypisovat kurzivou? Pokud ano,
+	jak to DocBooku rict? (Moznost snadne zmeny fontu je hlavni duvod, proc
+	je toto slovo vubec ve slovniku. Vhodny preklad do cestiny asi
+	neexistuje.)
+
+A nebo se maji kurzivou psat vsechny preklady a ne jen prvni vyskyt? (K tomu
+by se mozna hodil tag <emphasis/>.
+    -->
+    <preklad pad="1">copyright</preklad>
+    <preklad pad="2">copyrightu</preklad>
+    <preklad pad="3">copyrightu</preklad>
+    <preklad pad="4">copyright</preklad>
+    <preklad pad="6">copyrightu</preklad>
+    <puvodni>copyright</puvodni>
+    <komentar>
+      Do češtiny se tento pojem obvykle překládá jako autorské právo. Takový
+      překlad je však - z historického hlediska - poněkud zavádějící.
+    </komentar>
+
+  </termin>
+
+  <termin id="stationers">
+    <preklad pad="1">Knihkupci</preklad>
+    <preklad pad="2">Knihkupců</preklad>
+    <preklad pad="4">Knihkupce</preklad>
+    <preklad pad="7">Knihkupci</preklad>
+
+    <puvodni>stationers</puvodni>
+  </termin>
+
+  <termin id="london_stationers_company">
+    <preklad pad="1">Londýnská společnost knihkupců</preklad>
+
+    <puvodni>London Company of Stationers</puvodni>
+    <komentar>Nebo spíše "Společnost londýnských knihkupců"?</komentar>
+  </termin>
+
+  <termin id="stationers_company">
+    <preklad pad="1">Společnost knihkupců</preklad>
+    <preklad pad="2">Společnosti knihkupců</preklad>
+
+    <puvodni>Company of Stationers</puvodni>
+  </termin>
+
+  <termin id="court_of_assistants">
+    <preklad pad="4">Komisi asitentů</preklad>
+    <puvodni>Court of Assistants</puvodni>
+    <komentar>Nemyslí se pojmem "assistant" spíš "shop assistant",
+    tzn. jednalo by se o lidi, z "terénu"?</komentar>
+  </termin>
+
+  <termin id="statute_of_anne">
+    <preklad pad="1">Zákon královny Anny</preklad>
+    <preklad pad="2">Zákona královny Anny</preklad>
+    <preklad pad="7">Zákonem královny Anny</preklad>
+    <puvodni>Statute of Anne</puvodni>
+    <komentar>Takto pojem překládá http://cs.wikipedia.org/wiki/Autorsk%C3%A9_pr%C3%A1vo</komentar>
+  </termin>
+
+  <termin id="master_copy">
+    <preklad pad="2">finální kopie</preklad>
+    <preklad pad="4">finální kopii</preklad>
+    <komentar>
+      V muzice se, pokud vím, to, co jde do výroby nosičů, nazývá "master",
+      popř. "finální nahrávka". Jaká je obdoba pro tisk knih? "Sazba"?
+    </komentar>
+  </termin>
+
+  <termin id="fund_and_release">
+    <preklad pad="1">Fund and Release</preklad>
+    <komentar>
+      Odměnový crowdfunding?
+    </komentar>
+  </termin>
+
+  <termin id="threshold_pledge">
+    <preklad pad="1">Threshold Pledge</preklad>
+    <komentar>
+      Minimální příslib?
+    </komentar>
+  </termin>
+
+  <termin id="product_placement">
+    <preklad pad="1">product placement</preklad>
+    <komentar>
+      Doslovný překlad "umístění produktu" neříká o mnoho více (umístění kam?)
+      než původní termín. Význam je zřejmý z kontextu a kromě toho jsem sám
+      slyšel, jak člověk z (filmové) branže v rozhovoru o této problematice
+      používal anglický originál.
+    </komentar>
+  </termin>
+
+  <termin id="software">
+    <preklad pad="1">software</preklad>
+    <komentar>
+      Termín "programové vybavení" se v češtině používá už dlouho, ale pro
+      širokou veřejnost je zřejmě srozumitelnější originál.
+    </komentar>
+  </termin>
+
+  <termin id="free_software" velke="S">
+    <preklad pad="1">svobodný software</preklad>
+    <preklad pad="2">svobodného softwaru</preklad>
+    <preklad pad="4">svobodný software</preklad>
+    <preklad pad="6">svobodném softwaru</preklad>
+    <komentar>
+      V češtině asi není správné začínat slova velkými písmeny.
+    </komentar>
+  </termin>
+
+  <termin id="proprietary_plural">
+    <preklad pad="1">proprietární</preklad>
+    <preklad pad="3">proprietárním</preklad>
+    <komentar>
+      (Software.) Spíše než hledisko otevřenosti resp. uzavřenosti zdrojového
+      kódu (http://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_software)
+      postihuje toto přídavné jméno skutečnost, že na daný program má někdo
+      vlastniké právo. Teprve z toho vyplývá, že k programu často není k
+      dispozici zdrojový kód.
+    </komentar>
+  </termin>
+
+  <termin id="proprietary_singular">
+    <preklad pad="1">proprietární</preklad>
+    <preklad pad="4">proprietární</preklad>
+    <preklad pad="6">proprietárním</preklad>
+    <komentar>
+      Jednotné číslo výše uvedeného. Jen pro pořáadek samostatná položka ve
+      slovníku (zatím nevím, jestli se v textu vyskytuje pád, ve kterém má
+      slovo odlišný tvar od množného čísla).
+    </komentar>
+  </termin>
+
+  <termin id="mainstream_adj">
+    <preklad pad="1">mainstreamový</preklad>
+    <komentar>
+      "Převažující" asi v daném kontextu nezní dobře. Zde se asi myslí spíše
+      "proprietární", protože proprietární software na trhu stále převažuje.
+    </komentar>
+  </termin>
+
+  <termin id="public_domain">
+    <preklad pad="1">public domain</preklad>2
+    <komentar>
+      Doslovný překlad, že software "je ve veřejné doméně", v češtině asi nemá
+      žádný význam.
+    </komentar>
+  </termin>
+
+  <termin id="public_relations">
+    <preklad pad="4">public relations</preklad>
+    <komentar>
+      "vztahy s veřejností" zní asi exoticky, zatímco o výrazu "public
+      relations" asi většina lidí má určité povědomí.
+    </komentar>
+  </termin>
+</slovnik>

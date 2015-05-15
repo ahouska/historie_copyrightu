@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+TODO
+
+1. Vynechat "Table of Contents"
+2. Zakazat radkovy zlom po jednoslabicnych predlozkach.
+-->
+
+<article>
+  <articleinfo>
+    <author>
+      <!--
+	  TODO
+	  Poznamka o sireni.
+      -->
+      <firstname>Karl</firstname>
+      <surname>Fogel</surname>
+    </author>
+  </articleinfo>
+
+  <!--
+      TODO
+      "Prekvapiva", nebo "Prekvapujici"?
+-->
+  <title>Překvapivá historie copyrightu a příslib světa bez něj</title>
+  <!--
+      Atribut "xmlns:xi" nemuze byt v tagu "article", protoze by zustal ve
+      vstupu pro DocBook a tam by zpusobil chybove hlaseni (neznamy atribut).
+  -->
+
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="uvod.xml"
+   	      parse="xml"/>
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="historie.xml"
+	      parse="xml"/>
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="soucasnost.xml"
+	      parse="xml"/>
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="budoucnost.xml"
+	      parse="xml"/>
+
+
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="zaver.xml"
+	      parse="xml"/>
+
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="slovnik.xml"
+	      parse="xml"/>
+</article>

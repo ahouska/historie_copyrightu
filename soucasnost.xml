@@ -1,0 +1,187 @@
+<part>
+  <para>
+    S příchodem Internetu se výše popsaná "rovnice" zásadně změnila. Z
+    tvrzení, že Internet představuje stejnou revoluci jako tiskařský lis, se
+    stalo klišé. Internet revoluci skutečně způsobil, ale poněkud
+    jinou. Tiskařský lis umožil, aby se z jedné předlohy vyrobilo tisíc knih,
+    avšak tyto knihy stále musely doputovat z tiskárny ke čtenářům. Knihy
+    nebyly pouze médiem, které by sloužilo k "upotřebení" obsahu, sloužily i
+    jako médium přenosu. Celkové náklady vydavatele tak byly přímo úměrné
+    počtu dodaných kopií. V takové situaci dává smysl, aby každý čtenář nesl
+    část nákladů na distribuci. Každý uživatel je totiž svým způsobem
+    zodpovědný část vynaložených prostředků. Drží-li knihu (resp. nahrávku) v
+    ruce, je jasné že se k němu musela nějak dostat, a někdo to musel
+    zaplatit. Zjednodušeně řečeno: vydělíte-li tyto náklady počtem kopií a
+    přidáte určitou částku představující zisk, dostanete cenu knihy.
+  </para>
+
+  <para>
+    Dnes už ale médium, na němž se obsah přenáší, nemusí nijak souviset s
+    médiem, které slouží ke spotřebě. Informaci je možné poslat po síti, a to
+    je samozřejmě zdarma. Na druhém konci vedení si uživatel může kopii sám
+    vytisknout - na vlastní náklady a v kvalitě, jakou si může dovolit
+    <footnote><para>When I started this article, I assumed such developments
+    were a few years away from commercial viability, but I was wrong: the
+    print-on-demand service newspaperkiosk.com launched (note: it later
+    apparently folded, but then came lulu.com, which is still going
+    strong).</para></footnote>. Kromě toho už není potřeba vlastnit <preklad
+    id="master_copy" pad="4"/>; už samotný koncept <preklad id="master_copy"
+    pad="2"/> je totiž zastaralý. Vytvoření dokonalé kopie tištěného díla je
+    celkem obtížné, snadno však vytvoříte kopii vadnou nebo neúplnou. Naproti
+    tomu, existuje-li dílo v digitální podobě, je pořízení dokonalé kopii
+    triviálně jednoduché. Vyžaduje-li něco zvýšené úsilí, je to vytvoření
+    kopie nedokonalé.
+  </para>
+
+  <para>
+    Účtuje-li si tedy někdo stejný poplatek za každou kopii - bez ohledu na
+    celkový počet kopií a na to, kdo je vyrobil - je to
+    neospravedlnitelné. Náklady na výrobu a distribuci díla jsou dnes z
+    podstaty věci fixní, tzn. nerostou už s počtem vyrobených kopií. Ze
+    společenského hlediska se dá říci, že každý dolar, který spotřebitel
+    utratí nad rámec nákladů na vytvoření vlastního díla, je zbytečný, a
+    překáží dílu v tom, aby se šířilo svou vlastní silou.
+  </para>
+
+  <para>
+    Internet způsobil to, co <preklad id="stationers" pad="1"/> nikdy
+    nepředpokládali: z argumentu, s nímž předstoupili před parlament, učinili
+    ověřitelnou hypotézu <!--"testovani hypotez" je asi pojem ze
+    statistiky. Je mozne, ze autor vidi nejakou souvislost s timto?
+    -->. Budou autoři tvořit, aniž by se výsledky jejich práce šířily
+    centralizovaným způsobem? Jakékoliv publikování na internetu je
+    dostačující odpovědí: samozřejmě, že budou. A také to už činí. Stejně tak,
+    jako si uživatelé osobních počítačů zvykli na to, že si hudební záznam
+    zkopírují a záznam na kompaktní disk (CD) si provedou doma, si také si
+    hudebníci - pomalu, ale jistě - zvykají na to, že své nahrávky nabízejí
+    zdarme ke stažení <footnote><para>See www.mp3.com, for one
+    example. (Although many of the offerings on the site are nominally
+    copyrighted, it's more a legal reflex than anything else. The tracks are
+    meant to be freely downloaded, listened to, and shared -- and that's
+    exactly what people do with them.)</para></footnote>. Na internetu je již
+    teď k dispozici množství kratších literárních děl
+
+    <!--
+	"fiction and non-fiction" - "fiction" by mohlo být "sci-fi", ale jak
+	potom přeložit "non-fiction"? "literatura faktu" není - co do
+	obecnosti - na stejné úrovni jako "fiction" (tj. je to jen podmnožina
+	"non-fiction". Např. "beletrie" je pak zase obecnější než "fiction" i
+	"non-fiction".
+    -->
+    nejrůznějších žánrů.
+
+    Tisk ani vázba knih na zakázku se stále příliš nerozšírily, ale za to může
+    jen vysoká cena zařízení, kterých je k tomu zapotřebí. Tato cena se ale
+    postupně snižuje, a je jen otázka času, kdy jimi bude vybaveno každé
+    kopírovací centrum. Co se týká distribuce, není mezi hudbou a textem žádný
+    podstatný rozdíl. S tím, jak bude klesat nákladnost technologií tisku a
+    vazby, bude autorům stále více zřejmé, že mají k dispozici stejnou
+    alternativu jako hudebníci. A stejný bude i výsledek: rostoucí množství
+    "materiálu", který bude - dle záměru autora - k dispozici bez omezení.
+  </para>
+
+  <para>
+    Někdo možná namítne, že se spisovateli je to jinak, totiž že jejich
+    existence závisí copyrightu více, než jak je tomu u hudebníků. Hudebník
+    přeci jen vystupuje, a to, že nabízí své nahrávky zdarma, nepřímo zvyšuje
+    jeho zisk - větší publicita znamená více vystoupení. Spisovatelé však
+    žádná vystoupení nepořádají; k publiku se nedostanou osobně, nýbrž jen
+    skrze své dílo. Co by si počali, kdyby měli vymyslet způsob financování
+    své práce, jenž by nespočíval v umělém vytváření nedostatku?
+  </para>
+
+  <para>
+    Představte si tu nejjednodušší situaci: přijdete do tiskařské firmy a
+    řeknete prodavači internetovou adresu knihy, kterou si přejete. Prodavač
+    se za několik minut vrátí s čerstvě vytištěnou knihou v pevné vazbě -
+    přesně s tou vaší z Internetu. Na pokladně namarkuje částku a řekne: "Dělá
+    to osm dolarů. Chcete zaplatit jeden dolar navíc jako příspěvek autorovi?"
+  </para>
+
+  <para>
+    Odpovíte, že chcete? Možná ano, možná ne. Uvědomte si ale, že když muzea
+    vybírají dobrovolné vstupné, lidé často platí. A stejná dynamika se
+    dostane ke slovu i u kopírky. Pro většinu lidí je potěšením přidat k větší
+    částce pár drobných, pokud už drží peněženku v ruce a pokud jsou
+    přesvědčeni, že se jedná o dobrou věc. Představuje-li takovýto drobný dar
+    problém, je to často spíše kvůli spíše kvůli nepohodlí (vyplnění šeku,
+    jeho vložení do obálky, atd.) než kvůli samotným penězům. Ale i kdyby
+    takto přispěla jen polovina čtenářů, nebo dokonce ještě menší část, autoři
+    by si stále vydělali více, než kolik jim umožňuje tradiční systém
+    autorských poplatků. A navíc by je těšilo, že ve věci distribuce díla jsou
+    konečně spojenci čtenářů a ne nepřátelé.
+  </para>
+
+  <para>
+    Zmíněný způsob (odměňování autorů) však není ten jediný možný a dá se
+    snadno kombinovat s dalšími. Ti, kdo se nechtějí spoléhat na dobrovolné
+    příspěvky, by měli zvážit použití systému <preklad id="fund_and_release"
+    pad="1"/> (nazývaného též <preklad id="threshold_pledge" pad="1"/>,
+    <footnote><para>The original version of this article called this the
+    "Threshold Pledge" system. However, Brandt Cannici of strayform.com, who
+    independently invented the same system, came up with the much better name
+    "Fund and Release", and I now try to use that term
+    instead.</para></footnote>). Tento systém je navržen se zřetelem na
+    klasický problém "distribuovaného financování", totiž, že každý, kdo
+    přispívá, chce před vložením svých peněz mít jistotu, že přispějí i
+    ostatní. Systém <preklad id="fund_and_release" pad="1"/> funguje tak, že
+    (předpokládaný) autor prohlásí, kolik peněz bude potřebovat na vytvoření
+    nového díla - řeč je o "prahové částce". Zprostředkující společnost pak
+    shromažďuje přísliby konkrétních částek, které dostane od
+    veřejnosti. Jakmile celkový přislíbený obnos dosáhne prahové hodnoty
+    (resp. tento práh o určité procento - odpovídající režii a také riziku -
+    přesáhne), uzavře zprostředkující společnost s autorem smlouvu, a vyzve
+    přispěvatele k zaplacení. Výzva k platbě může přijít jedině v této fázi,
+    tzn. je-li k dispozici dost peněz k realizaci díla. Zprostředkovatel drží
+    peníze v úschově a platí autorovi podle sjednaného kalendáře. Poslední
+    částka je vyplacena v okamžiku, kdy je práce dokončena a
+    zveřejněna. Přístup k dílu musí mít kdokoliv na světě, tedy ne jen ti, kdo
+    na něj přispěli. Pokud autor dílo nevytvoří, zprostředkovatel vrátí peníze
+    dárcům.
+  </para>
+
+  <para>
+    Systém <preklad id="fund_and_release" pad="1"/> má některé zajímavé
+    vlastnosti, jež na monopolním trhu na bázi copyrightu nenajdeme. Výsledné
+    dílo je k dispozici pro kohokoliv na světě a zdarma a autor i přesto
+    dostal zaplaceno dost na to, aby ho vytvořil - pokud by býval potřeboval
+    více, požádal by (na počátku) o větší částku a sám by viděl, zda je to pro
+    trh únosné. Ti, kteří se rozhodli zaplatit, dali pouze tolik, kolik jim
+    vyhovovalo, a nic víc. A nakonec, přispěvatelé nepodstupují žádné riziko -
+    nedosáhne-li se na prahovou částku, nikdo nic neplatí.
+  </para>
+
+  <para>
+    Samozřejmě ne všechny metody jsou takto ušlechtilé. Před několika lety
+    přijala uznávaná autorka Fay Weldonová okázale peníze od klenotnictví
+    Bulgari. Díky nim pak napsala novelu, v níž evidentně představovala zboží
+    této společnosti - zejména tím, že knihu pojmenovala "The Bulgari
+    Connection". Kniha měla původně vyjít v omezeném počtu výtisků, pro
+    komerční potřeby firmy. Jakmile ji však Weldonová dokončila, dala ji
+    vydavateli, který ji pustil k veřejnosti. Znamená to, že v budoucnosti
+    budeme muset úzkostlivě zkoumat, zda jakákoliv tvůrčí práce nejeví známky
+    skrytého komerčního sponzorství? Možná, že ano, ale na tom není nic nového
+    - <preklad id="product_placement" pad="1"/> vznikl v kontextu tradičního
+    copyrightu a v tomto prostředí se dočkal rozkvětu, jaký by ho potkal tak
+    jako tak. Pokud jde o sponzorství, není copyright ani příčinou ani
+    prostředkem. Bylo by zvláštní <!-- TODO "out of touch" --> vidět ve
+    vydavatelském průmyslu sílu, která způsobuje nižší míru "komercializace".
+  </para>
+
+  <para>
+    Toto je pouze několik příkladů, jak lze podpořit tvůrčí práci bez
+    copyrightu. Existuje řada dalších metod (viz <footnote><para>For a
+    description of one funding technique, and a survey of others, see "The
+    Street Performer Protocol and Digital Copyrights" by John Kelsey and Bruce
+    Schneier, at
+    http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/673/583</para></footnote>)
+    a mnohé existovaly dokonce předtím, než Internet přinesl možnost
+    pohodlných a přímych mikroplateb. Zda konkrétní umělec využije tu nebo onu
+    metodu, není podstatné. Podstatné je snížení "tření", které komplikuje
+    platby malých částek. Pak si autoři sami najdou mechanizmus, jak příslušný
+    objem peněz přijmout. Ti z ekonomů, které okouzluje trh jakožto
+    univerzální řešení všeho, by si tyto možnosti měli zamilovat (dá se však
+    předpokládat, že v mnoha případech tomu tak nebude - mnoho ekonomů totiž
+    nesnese pomyšlení, že by cokoliv něco zůstat bez vlastníka).
+  </para>
+</part>
