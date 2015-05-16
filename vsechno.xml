@@ -7,6 +7,8 @@ TODO
 -->
 
 <article>
+  <title>Překvapivá historie copyrightu a příslib světa bez něj</title>
+
   <articleinfo>
     <author>
       <!--
@@ -22,7 +24,6 @@ TODO
       TODO
       "Prekvapiva", nebo "Prekvapujici"?
 -->
-  <title>Překvapivá historie copyrightu a příslib světa bez něj</title>
   <!--
       Atribut "xmlns:xi" nemuze byt v tagu "article", protoze by zustal ve
       vstupu pro DocBook a tam by zpusobil chybove hlaseni (neznamy atribut).
