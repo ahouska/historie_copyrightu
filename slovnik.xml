@@ -39,7 +39,6 @@ by se mozna hodil tag <emphasis/>.
 
   <termin id="london_stationers_company">
     <preklad pad="1">Londýnská společnost knihkupců</preklad>
-
     <puvodni>London Company of Stationers</puvodni>
     <komentar>Nebo spíše "Společnost londýnských knihkupců"?</komentar>
   </termin>
@@ -131,6 +130,7 @@ by se mozna hodil tag <emphasis/>.
 
   <termin id="proprietary_singular">
     <preklad pad="1">proprietární</preklad>
+    <preklad pad="2">proprietárního</preklad>
     <preklad pad="4">proprietární</preklad>
     <preklad pad="6">proprietárním</preklad>
     <komentar>
