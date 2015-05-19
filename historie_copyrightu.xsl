@@ -83,6 +83,12 @@
 	    </blockquote>
 	  </xsl:when>
 
+	  <xsl:when test="name(.)='footnote'">
+	    <footnote>
+	      <xsl:call-template name="copy-part"/>
+	    </footnote>
+	  </xsl:when>
+
 	  <xsl:otherwise>
 	    <xsl:copy-of select="."/>
 	  </xsl:otherwise>

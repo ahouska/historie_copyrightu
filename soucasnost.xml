@@ -3,16 +3,17 @@
     S příchodem Internetu se výše popsaná "rovnice" zásadně změnila. Z
     tvrzení, že Internet představuje stejnou revoluci jako tiskařský lis, se
     stalo klišé. Internet revoluci skutečně způsobil, ale poněkud
-    jinou. Tiskařský lis umožil, aby se z jedné předlohy vyrobilo tisíc knih,
-    avšak tyto knihy stále musely doputovat z tiskárny ke čtenářům. Knihy
-    nebyly pouze médiem, které by sloužilo k "upotřebení" obsahu, sloužily i
-    jako médium přenosu. Celkové náklady vydavatele tak byly přímo úměrné
-    počtu dodaných kopií. V takové situaci dává smysl, aby každý čtenář nesl
-    část nákladů na distribuci. Každý uživatel je totiž svým způsobem
-    zodpovědný část vynaložených prostředků. Drží-li knihu (resp. nahrávku) v
-    ruce, je jasné že se k němu musela nějak dostat, a někdo to musel
-    zaplatit. Zjednodušeně řečeno: vydělíte-li tyto náklady počtem kopií a
-    přidáte určitou částku představující zisk, dostanete cenu knihy.
+    jinou. Tiskařský lis umožil, aby se z jedné předlohy vyrobilo třeba tisíc
+    knih, avšak tyto knihy stále musely doputovat z tiskárny ke
+    čtenářům. Knihy nebyly pouze médiem, které by sloužilo k "upotřebení"
+    obsahu, sloužily i jako médium přenosu. Celkové náklady vydavatele tak
+    byly přímo úměrné počtu dodaných kopií. V takové situaci dává smysl, aby
+    každý čtenář nesl část nákladů na distribuci. Každý uživatel je totiž svým
+    způsobem zodpovědný část vynaložených prostředků. Drží-li knihu
+    (resp. nahrávku) v ruce, je jasné že se k němu musela nějak dostat, a
+    někdo to musel zaplatit. Zjednodušeně řečeno: vydělíte-li tyto náklady
+    počtem kopií a přidáte určitou částku představující zisk, dostanete cenu
+    knihy.
   </para>
 
   <para>
@@ -20,11 +21,12 @@
     médiem, které slouží ke spotřebě. Informaci je možné poslat po síti, a to
     je samozřejmě zdarma. Na druhém konci vedení si uživatel může kopii sám
     vytisknout - na vlastní náklady a v kvalitě, jakou si může dovolit
-    <footnote><para>When I started this article, I assumed such developments
-    were a few years away from commercial viability, but I was wrong: the
-    print-on-demand service newspaperkiosk.com launched (note: it later
-    apparently folded, but then came lulu.com, which is still going
-    strong).</para></footnote>. Kromě toho už není potřeba vlastnit <preklad
+    <footnote><para>V době, kdy jsem začal psát tento článek, jsem
+    předpokládal, že od komerční životaschopnosti těchto technologií nás dělí
+    ještě několik let. V tom jsem se však mýlil: svůj provoz zahájila služba
+    tisku na počkání newspaperkiosk.com. (Pozn. Ta sice později zanikla, ale
+    po ní přišla služba lulu.com a ta se zatím zdatně
+    drží.)</para></footnote>. Kromě toho už není potřeba vlastnit <preklad
     id="master_copy" pad="4"/>; už samotný koncept <preklad id="master_copy"
     pad="2"/> je totiž zastaralý. Vytvoření dokonalé kopie tištěného díla je
     celkem obtížné, snadno však vytvoříte kopii vadnou nebo neúplnou. Naproti
@@ -54,11 +56,11 @@
     jako si uživatelé osobních počítačů zvykli na to, že si hudební záznam
     zkopírují a záznam na kompaktní disk (CD) si provedou doma, si také si
     hudebníci - pomalu, ale jistě - zvykají na to, že své nahrávky nabízejí
-    zdarme ke stažení <footnote><para>See www.mp3.com, for one
-    example. (Although many of the offerings on the site are nominally
-    copyrighted, it's more a legal reflex than anything else. The tracks are
-    meant to be freely downloaded, listened to, and shared -- and that's
-    exactly what people do with them.)</para></footnote>. Na internetu je již
+    zdarme ke stažení <footnote><para>Například www.mp3.com. (Striktně vzato
+    se na mnoho příspěvků na tomto webu sice copyright vztahuje, ale to je
+    mnohem spíše právní reflex než cokoliv jiného. I tyto nahrávky sem byly
+    umístěny s úmyslem, aby si je lidé stahovali, poslouchali a sdíleli - a
+    přesně to se s nimi děje.)</para></footnote>. Na internetu je již
     teď k dispozici množství kratších literárních děl<!--
 	"fiction and non-fiction" - "fiction" by mohlo být "sci-fi", ale jak
 	potom přeložit "non-fiction"? "literatura faktu" není - co do
@@ -114,27 +116,27 @@
     snadno kombinovat s dalšími. Ti, kdo se nechtějí spoléhat na dobrovolné
     příspěvky, by měli zvážit použití systému <preklad id="fund_and_release"
     pad="1"/> (nazývaného též <preklad id="threshold_pledge" pad="1"/>,
-    <footnote><para>The original version of this article called this the
-    "Threshold Pledge" system. However, Brandt Cannici of strayform.com, who
-    independently invented the same system, came up with the much better name
-    "Fund and Release", and I now try to use that term
-    instead.</para></footnote>). Tento systém je navržen se zřetelem na
-    klasický problém "distribuovaného financování", totiž, že každý, kdo
-    přispívá, chce před vložením svých peněz mít jistotu, že přispějí i
-    ostatní. Systém <preklad id="fund_and_release" pad="1"/> funguje tak, že
-    (předpokládaný) autor prohlásí, kolik peněz bude potřebovat na vytvoření
-    nového díla - řeč je o "prahové částce". Zprostředkující společnost pak
-    shromažďuje přísliby konkrétních částek, které dostane od
-    veřejnosti. Jakmile celkový přislíbený obnos dosáhne prahové hodnoty
-    (resp. tento práh o určité procento - odpovídající režii a také riziku -
-    přesáhne), uzavře zprostředkující společnost s autorem smlouvu, a vyzve
-    přispěvatele k zaplacení. Výzva k platbě může přijít jedině v této fázi,
-    tzn. je-li k dispozici dost peněz k realizaci díla. Zprostředkovatel drží
-    peníze v úschově a platí autorovi podle sjednaného kalendáře. Poslední
-    částka je vyplacena v okamžiku, kdy je práce dokončena a
-    zveřejněna. Přístup k dílu musí mít kdokoliv na světě, tedy ne jen ti, kdo
-    na něj přispěli. Pokud autor dílo nevytvoří, zprostředkovatel vrátí peníze
-    dárcům.
+    <footnote><para>Původní verze tohoto článku hovořila o systému "<preklad
+    id="threshold_pledge" pad="1"/>.  The original version of this article
+    called this the "Threshold Pledge" system. Brandt Cannici (strayform.com)
+    však nezávisle vymyslel stejný systém a dal mu mnohem lepší název -
+    <preklad id="fund_and_release" pad="1"/>. Ten se teď snažím používat i
+    já.</para></footnote>). Tento systém je navržen se zřetelem na klasický
+    problém "distribuovaného financování", totiž, že každý, kdo přispívá, chce
+    před vložením svých peněz mít jistotu, že přispějí i ostatní. Systém
+    <preklad id="fund_and_release" pad="1"/> funguje tak, že (předpokládaný)
+    autor prohlásí, kolik peněz bude potřebovat na vytvoření nového díla - řeč
+    je o "prahové částce". Zprostředkující společnost pak shromažďuje přísliby
+    konkrétních částek, které dostane od veřejnosti. Jakmile celkový
+    přislíbený obnos dosáhne prahové hodnoty (resp. tento práh o určité
+    procento - odpovídající režii a také riziku - přesáhne), uzavře
+    zprostředkující společnost s autorem smlouvu, a vyzve přispěvatele k
+    zaplacení. Výzva k platbě může přijít jedině v této fázi, tzn. je-li k
+    dispozici dost peněz k realizaci díla. Zprostředkovatel drží peníze v
+    úschově a platí autorovi podle sjednaného kalendáře. Poslední částka je
+    vyplacena v okamžiku, kdy je práce dokončena a zveřejněna. Přístup k dílu
+    musí mít kdokoliv na světě, tedy ne jen ti, kdo na něj přispěli. Pokud
+    autor dílo nevytvoří, zprostředkovatel vrátí peníze dárcům.
   </para>
 
   <para>
@@ -167,18 +169,18 @@
 
   <para>
     Toto je pouze několik příkladů, jak lze podpořit tvůrčí práci bez
-    copyrightu. Existuje řada dalších metod (viz <footnote><para>For a
-    description of one funding technique, and a survey of others, see "The
-    Street Performer Protocol and Digital Copyrights" by John Kelsey and Bruce
-    Schneier, at
-    http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/673/583</para></footnote>)
-    a mnohé existovaly dokonce předtím, než Internet přinesl možnost
-    pohodlných a přímych mikroplateb. Zda konkrétní umělec využije tu nebo onu
-    metodu, není podstatné. Podstatné je snížení "tření", které komplikuje
-    platby malých částek. Pak si autoři sami najdou mechanizmus, jak příslušný
-    objem peněz přijmout. Ti z ekonomů, které okouzluje trh jakožto
-    univerzální řešení všeho, by si tyto možnosti měli zamilovat (dá se však
-    předpokládat, že v mnoha případech tomu tak nebude - mnoho ekonomů totiž
-    nesnese pomyšlení, že by cokoliv něco zůstat bez vlastníka).
+    copyrightu. Existuje řada dalších metod (viz <footnote><para>Popis jedné z
+    metod financování a průzkum využití některých dalších uvádí článek <ulink
+    url="http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/673/583">"The
+    Street Performer Protocol and Digital Copyrights"</ulink>, autorů Johna
+    Kelseyho a Bruce Schneiera</para></footnote>) a mnohé existovaly dokonce
+    předtím, než Internet přinesl možnost pohodlných a přímych
+    mikroplateb. Zda konkrétní umělec využije tu nebo onu metodu, není
+    podstatné. Podstatné je snížení "tření", které komplikuje platby malých
+    částek. Pak si autoři sami najdou mechanizmus, jak příslušný objem peněz
+    přijmout. Ti z ekonomů, které okouzluje trh jakožto univerzální řešení
+    všeho, by si tyto možnosti měli zamilovat (dá se však předpokládat, že v
+    mnoha případech tomu tak nebude - mnoho ekonomů totiž nesnese pomyšlení,
+    že by cokoliv něco zůstat bez vlastníka).
   </para>
 </part>

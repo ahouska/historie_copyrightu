@@ -31,10 +31,15 @@ by se mozna hodil tag <emphasis/>.
   <termin id="stationers">
     <preklad pad="1">Knihkupci</preklad>
     <preklad pad="2">Knihkupců</preklad>
+    <preklad pad="3">Knihkupcům</preklad>
     <preklad pad="4">Knihkupce</preklad>
     <preklad pad="7">Knihkupci</preklad>
-
     <puvodni>stationers</puvodni>
+    <komentar>
+      Slovníky často "stationery" překládají jako "papírnictví", ale speciálně
+      pro středověk vysvětluje "The New Oxford American Dictionary" pojem
+      "stationer" jako "bookseller".
+    </komentar>
   </termin>
 
   <termin id="london_stationers_company">
