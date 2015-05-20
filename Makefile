@@ -29,4 +29,4 @@ $(BASENAME).pdf:	$(BASENAME).tex
 
 clean:
 	rm -rf $(BASENAME).xml $(BASENAME).fo $(BASENAME).html $(BASENAME).pdf\
-		$(BASENAME).tex $(BASENAME).log $(BASENAME).pdf
+		$(BASENAME).tex $(BASENAME).dvi $(BASENAME).log $(BASENAME).pdf
