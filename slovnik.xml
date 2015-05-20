@@ -71,11 +71,11 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="master_copy">
-    <preklad pad="2">finální kopie</preklad>
-    <preklad pad="4">finální kopii</preklad>
+    <preklad pad="1">předloha pro tisk</preklad>
+    <preklad pad="2">předlohy pro tisk</preklad>
+    <preklad pad="4">předlohu pro tisk</preklad>
     <komentar>
-      V muzice se, pokud vím, to, co jde do výroby nosičů, nazývá "master",
-      popř. "finální nahrávka". Jaká je obdoba pro tisk knih? "Sazba"?
+      Možná spíše "sazba"?
     </komentar>
   </termin>
 
