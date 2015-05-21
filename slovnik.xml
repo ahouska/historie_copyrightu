@@ -71,11 +71,12 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="master_copy">
-    <preklad pad="1">předloha pro tisk</preklad>
-    <preklad pad="2">předlohy pro tisk</preklad>
-    <preklad pad="4">předlohu pro tisk</preklad>
+    <preklad pad="1">předloha</preklad>
+    <preklad pad="2">předlohy</preklad>
+    <preklad pad="4">předlohu</preklad>
     <komentar>
-      Možná spíše "sazba"?
+      Možná přesněji "předloha pro tisk", resp. "sazba", ale autor to používá
+      i v souvislosti se záznamem zvuku.
     </komentar>
   </termin>
 
@@ -123,6 +124,7 @@ by se mozna hodil tag <emphasis/>.
 
   <termin id="proprietary_plural">
     <preklad pad="1">proprietární</preklad>
+    <preklad pad="2">proprietárního</preklad>
     <preklad pad="3">proprietárním</preklad>
     <komentar>
       (Software.) Spíše než hledisko otevřenosti resp. uzavřenosti zdrojového

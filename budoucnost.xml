@@ -1,6 +1,6 @@
 <part>
   <para>
-    Záblesk budoucosti nám, mnohem spíše než internetem zběhlí hudebníci,
+    Záblesk budoucosti nám, mnohem spíše než Internetem zběhlí hudebníci,
     zprostředkuje obor <preklad id="software" pad="1"/>. Nejlepší ukázkou
     světa bez copyrightu je totiž zřejmě iniciativa <preklad
     id="free_software" pad="1"/>, jež v současné době zažívá svůj
@@ -11,12 +11,12 @@
     a vybízí k němu. Tuto myšlenku si brzy oblíbilo mnoho dalších
     programátorů. Díky tomu, že měli možnost sdílet své programy a bez omezení
     upravovat programy, které napsali ostatní, vzniklo brzy velké množství
-    fungujícího kódu <footnote><para>Pojmem "kód" se v této souvislosti
+    fungujícího kódu<footnote><para>Pojmem "kód" se v této souvislosti
     rozumí "text programu". (Pozn. překl.)</para></footnote>
   </para>
 
   <para>
-    Ozývaly se hlasy, že s tím, jak poroste velikost a složitost programů,
+    Ozývaly se hlasy, že s tím, jak poroste rozsáhlost a složitost programů,
     tento počáteční vzestup rychle ustane a že bude zapotřebí řídit práci
     centralizovaně a hierarchicky. Sektor <preklad id="free_software"
     pad="2"/> však neztroskotal, naopak se rychle rozvinul. Tak rychle, že to
@@ -26,8 +26,8 @@
     <preklad id="proprietary_plural" pad="3"/>. <preklad id="free_software"
     pad="4" velke="true"/> ve velké míře využívají banky, státní úřady i
     jednotliví uživatelé počítačů. Server Apache, který také patří do této
-    kategorie, se používá na větším počtu webů, než všechny ostatní servery
-    dohromady <footnote><para>Podíl webových serverů na trhu se neustále
+    kategorie, se používá na větším počtu webů než všechny ostatní servery
+    dohromady<footnote><para>Podíl webových serverů na trhu se neustále
     mění. Pokud chceme vyhodnotit podíl webových serverů z kategorie "open
     source" na trhu dnes, je potřeba kromě Apache vzít v úvahu také server
     Nginx. (Pozn. překl.</para></footnote>. Operační systémy z kategorie
@@ -40,12 +40,12 @@
     přispívá. V souhrnu zde však vidíme okázalé ignorování důvodů k existenci
     copyrightu. Vzkvétající komunita, která produkuje intelektuální hodnoty,
     teď existuje bez toho, že by si vynucovala regulaci kopírování. A přesto
-    dosahuje v podstatě stejných výsledků, jako její <preklad
+    dosahuje v podstatě stejných výsledků jako její <preklad
     id="mainstream_adj" pad="1"/> protějšek.
   </para>
 
   <para>
-    Podle tradičního zdúvodňování copyrightu by se následující nemělo
+    Podle tradičního zdůvodňování copyrightu by se následující nemělo
     dít. <preklad id="free_software" pad="1" velke="true"/> má ze své podstaty
     statut <preklad id="public_domain" pad="1"/>; copyright slouží především k
     identifikaci původního autora a v některých případech chrání program před
@@ -67,7 +67,7 @@
     rozhodující - někteří ho dostávají, ale mnozí další ne a přesto i oni na
     <preklad id="free_software" pad="6"/> pracují. Rozhodující je, že
     každoročně vzniká a dále se zdokonaluje obrovské množství <preklad
-    id="free_software" pad="2"/>. Toto množství rost rychle i ve srovnání s
+    id="free_software" pad="2"/>. Toto množství roste rychle i ve srovnání s
     produkcí, na jakou jsme v softwarovém průmyslu zvyklí.
   </para>
 
@@ -77,8 +77,8 @@
     atd. Pouze o software se však nejedná. Podíváte-li se na situaci důkladně,
     uvidíte obdobné náznaky všude. Hudebníci začínají zveřejňovat své nahrávky
     ke stažení zdarma a množství literatury, která je na Internetu též zdarma
-    - od návodů a beletrie, po fikci a poezii - se už dávno dostalo za
-    hranici, kde ho lze ještě změřit. Počítačový program se od ostatních forem
+    - od návodů a beletrie po fikci a poezii - se už dávno dostalo za
+    hranici, kde ho lze ještě měřit. Počítačový program se od ostatních forem
     informace nijak zásadně neliší. Podobně jako básně, písně, knihy nebo
     filmy, ho lze přenášet v digitální formě. Kopírovat lze buď celek, nebo
     jen jeho části. Konkrétní výňatek lze použít v jiném díle, je možné ho
@@ -131,7 +131,7 @@
   </para>
 
   <para>
-    Těžko si představit krédo (vydavatelského) průmyslu ve stručnějším
+    Těžko si představit krédo vydavatelského průmyslu ve stručnějším
     znění. Snad mohl říci: "Přesně k tomu slouží copyright: umožňuje existenci
     obchodních modelů."
   </para>
@@ -139,7 +139,7 @@
   <para>
     Bohužel ne vždy je propaganda, kterou vydavatelský průmysl prezentuje, tak
     přímočará a upřímná, jako to, co řekl pan Kenswil. Například asociace
-    <emphasis>RIAA</emphasis> (<emphasis>(Recording Industry Association of
+    <emphasis>RIAA</emphasis> (<emphasis>Recording Industry Association of
     America</emphasis>, <emphasis>Americká asociace nahrávacích
     společností</emphasis>, pozn. překl.) vysvětluje na svých webových
     stránkách (http://www.riaa.org/) copyright takto:
@@ -176,7 +176,7 @@
     tom, jak se <preklad id="stationers" pad="1"/> obdobným způsobem
     schovávali za umělce, když stáli před anglickým parlamentem osmnáctého
     století, se dá stejně dobře aplikovat i na současnost: "Schovávali se
-    (<preklad id="stationers" pad="1"/>) používáním argumentů, jež měly
+    používáním argumentů, jež měly
     evokovat sympatie s autorem (přičemž spokojeně mlčeli o své roli v uvedení
     autora do stejné mizerie, nad kterou sami lamentovali), a tím, že
     ignorovali logiku i zdravý rozum." <footnote><para>Patterson,
@@ -288,22 +288,22 @@
 	nezáleží."
       </para>
       <para>
-	Úspěchu prý měla, až když použití cizí písně přirovnala k podvrhu
+	Úspěch prý měla, až když použití cizí písně přirovnala k podvrhu
 	školní práce.
       </para>
     </blockquote>
   </para>
 
   <para>
-    (V to, aby si vnímavý třináctiletý chlapec zachoval hlavu i v situaci, kdy
+    (V to, že si vnímavý třináctiletý chlapec zachová hlavu i v situaci, kdy
     ji mnozí kolem ztrácí, se dá jedině doufat.)
   </para>
 
   <para>
     Sále ještě přetrvávající náklonnost veřejnosti a s ní dostatek
     finančnímich prostředků bohužel umožnily copyrightovému průmyslu vybudovat
-    si nebezpečný vliv v legislativní sféře. Výsledkem je znepokojivý trend:
-    vzájemně se posilující fyzické a právní bariéry. Ty jsou sice vydávány za
+    si nebezpečný vliv v legislativní sféře. Výsledkem je znepokojivý trend
+    vzájemně se posilujících fyzických a právních bariér. Ty jsou sice vydávány za
     prostředek boje s nelegálním kopírováním, nevyhnutelně však postihují
     kopírování jako takové. Strategie digitální ochrany proti kopírování se
     stále častěji realizují ne jako program, který lze odstranit nebo
@@ -316,10 +316,10 @@
     zvaný <emphasis>Digital Millennium Copyright Act</emphasis>, jenž staví
     snahy obejít ochranu proti kopírování mimo zákon. Trestné je dokonce i
     psaní programů, které s odstraněním této ochrany pomohou někomu
-    jinému. Bohužel leckteré typy hardwaru i softwaru automaticky zapisují
+    jinému. Bohužel leckteré typy hardwaru i softwaru automaticky přidávají
     informace sloužící k ochraně na veškerá média, na něž zapisují. Tím
     zmíněný zákon účinně potlačuje autorizované kopírování a mnoho dalších
-    aktivit, které - podle současné legislativy copyrightu - jinak spadaly do
+    činností, které by - podle současné legislativy copyrightu - jinak spadaly do
     kategorie "dovolené užití".
   </para>
 
@@ -344,8 +344,8 @@
     soudní spory, tato vítězství však spočívají na rozpadajících se
     základech. Jak dlouho ještě bude společnost věřit mýtu copyrightu a dojmu,
     že copyright byl vynalezen proto, aby umožnil tvůrčí práci? Tento mýtus se
-    dal zatím udržovat proto, že měl v sobě nepatrné zrnko pravdy: třebaže
-    copyright nebyl inspirovaný autory a nebyl uzákoněn na jejich ochranu,
+    dal zatím udržovat proto, že měl v sobě nepatrné zrnko pravdy: jakkoliv
+    nebyl copyright inspirovaný autory ani nebyl uzákoněn na jejich ochranu,
     umožnil masové rozšíření celé řady originálních děl. Kromě toho stále
     existuje mnoho vydavatelů (obecně jde o ty menší a ty, které vlastní
     jednotlivci), kteří chovají obdivuhodný smysl pro službu kultuře: dotují
