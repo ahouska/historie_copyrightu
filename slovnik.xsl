@@ -4,9 +4,8 @@
 	exclude-result-prefixes="xsl">
   <xsl:output
 	method="html"
-	encoding="UTF-8"
-	doctype-system="http://docbook.org/xml/4.2/docbookx.dtd"
-	doctype-public="-//OASIS//DTD DocBook XML V4.2//EN"/>
+	encoding="utf-8"
+/>
 
 
   <xsl:template match="/slovnik">
