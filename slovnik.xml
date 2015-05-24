@@ -5,6 +5,7 @@
 -->
 <slovnik>
   <termin id="copyright" velke="C">
+    <puvodni>copyright</puvodni>
     <!--
 	XXX
 	Ma se specialne tento termin pokazde vypisovat kurzivou? Pokud ano,
@@ -20,21 +21,20 @@ by se mozna hodil tag <emphasis/>.
     <preklad pad="3">copyrightu</preklad>
     <preklad pad="4">copyright</preklad>
     <preklad pad="6">copyrightu</preklad>
-    <puvodni>copyright</puvodni>
     <komentar>
       Do češtiny se tento pojem obvykle překládá jako autorské právo. Takový
-      překlad je však - z historického hlediska - poněkud zavádějící.
+      překlad je však - z historického hlediska - zavádějící.
     </komentar>
 
   </termin>
 
   <termin id="stationers">
+    <puvodni>stationers</puvodni>
     <preklad pad="1">Knihkupci</preklad>
     <preklad pad="2">Knihkupců</preklad>
     <preklad pad="3">Knihkupcům</preklad>
     <preklad pad="4">Knihkupce</preklad>
     <preklad pad="7">Knihkupci</preklad>
-    <puvodni>stationers</puvodni>
     <komentar>
       Slovníky často "stationery" překládají jako "papírnictví", ale speciálně
       pro středověk vysvětluje "The New Oxford American Dictionary" pojem
@@ -43,34 +43,35 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="london_stationers_company">
-    <preklad pad="1">Londýnská společnost knihkupců</preklad>
     <puvodni>London Company of Stationers</puvodni>
+    <preklad pad="1">Londýnská společnost knihkupců</preklad>
     <komentar>Nebo spíše "Společnost londýnských knihkupců"?</komentar>
   </termin>
 
   <termin id="stationers_company">
+    <puvodni>Company of Stationers</puvodni>
     <preklad pad="1">Společnost knihkupců</preklad>
     <preklad pad="2">Společnosti knihkupců</preklad>
-
-    <puvodni>Company of Stationers</puvodni>
   </termin>
 
   <termin id="court_of_assistants">
-    <preklad pad="4">Komisi asitentů</preklad>
     <puvodni>Court of Assistants</puvodni>
+    <preklad pad="1">Komise asitentů</preklad>
+    <preklad pad="4">Komisi asitentů</preklad>
     <komentar>Nemyslí se pojmem "assistant" spíš "shop assistant",
     tzn. jednalo by se o lidi, z "terénu"?</komentar>
   </termin>
 
   <termin id="statute_of_anne">
+    <puvodni>Statute of Anne</puvodni>
     <preklad pad="1">Zákon královny Anny</preklad>
     <preklad pad="2">Zákona královny Anny</preklad>
     <preklad pad="7">Zákonem královny Anny</preklad>
-    <puvodni>Statute of Anne</puvodni>
     <komentar>Takto pojem překládá http://cs.wikipedia.org/wiki/Autorsk%C3%A9_pr%C3%A1vo</komentar>
   </termin>
 
   <termin id="master_copy">
+    <puvodni>master copy</puvodni>
     <preklad pad="1">předloha</preklad>
     <preklad pad="2">předlohy</preklad>
     <preklad pad="4">předlohu</preklad>
@@ -82,12 +83,14 @@ by se mozna hodil tag <emphasis/>.
 
   <termin id="fund_and_release">
     <preklad pad="1">Fund and Release</preklad>
+    <puvodni>Fund and Release</puvodni>
     <komentar>
       Odměnový crowdfunding?
     </komentar>
   </termin>
 
   <termin id="threshold_pledge">
+    <puvodni>Threshold Pledge</puvodni>
     <preklad pad="1">Threshold Pledge</preklad>
     <komentar>
       Minimální příslib?
@@ -95,6 +98,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="product_placement">
+    <puvodni>product placement</puvodni>
     <preklad pad="1">product placement</preklad>
     <komentar>
       Doslovný překlad "umístění produktu" neříká o mnoho více (umístění kam?)
@@ -105,6 +109,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="software">
+    <puvodni>software</puvodni>
     <preklad pad="1">software</preklad>
     <komentar>
       Termín "programové vybavení" se v češtině používá už dlouho, ale pro
@@ -113,6 +118,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="free_software" velke="S">
+    <puvodni>free software</puvodni>
     <preklad pad="1">svobodný software</preklad>
     <preklad pad="2">svobodného softwaru</preklad>
     <preklad pad="4">svobodný software</preklad>
@@ -123,6 +129,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="proprietary_plural">
+    <puvodni>proprietary</puvodni>
     <preklad pad="1">proprietární</preklad>
     <preklad pad="2">proprietárního</preklad>
     <preklad pad="3">proprietárním</preklad>
@@ -136,6 +143,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="proprietary_singular">
+    <puvodni>proprietary</puvodni>
     <preklad pad="1">proprietární</preklad>
     <preklad pad="2">proprietárního</preklad>
     <preklad pad="4">proprietární</preklad>
@@ -148,6 +156,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="mainstream_adj">
+    <puvodni>mainstream</puvodni>
     <preklad pad="1">mainstreamový</preklad>
     <komentar>
       "Převažující" asi v daném kontextu nezní dobře. Zde se asi myslí spíše
@@ -156,6 +165,7 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="public_domain">
+    <puvodni>public domain</puvodni>
     <preklad pad="1">public domain</preklad>2
     <komentar>
       Doslovný překlad, že software "je ve veřejné doméně", v češtině asi nemá
@@ -164,6 +174,8 @@ by se mozna hodil tag <emphasis/>.
   </termin>
 
   <termin id="public_relations">
+    <puvodni>public relations</puvodni>
+    <preklad pad="1">public relations</preklad>
     <preklad pad="4">public relations</preklad>
     <komentar>
       "vztahy s veřejností" zní asi exoticky, zatímco o výrazu "public

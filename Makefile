@@ -22,11 +22,15 @@ $(BASENAME).html:	$(BASENAME).xml
 #	fop -fo $(BASENAME).fo -pdf $@
 
 $(BASENAME).tex:	$(BASENAME).xml
-	xsltproc --output historie_copyrightu.tex --xinclude tex.xsl vsechno.xml 
+	xsltproc --output historie_copyrightu.tex --xinclude tex.xsl vsechno.xml
 
 $(BASENAME).pdf:	$(BASENAME).tex
 	pdfcsplain $(BASENAME).tex
 
+slovnik.html:		slovnik.xml
+	xsltproc --output slovnik.html slovnik.xsl slovnik.xml
+
 clean:
 	rm -rf $(BASENAME).xml $(BASENAME).fo $(BASENAME).html $(BASENAME).pdf\
-		$(BASENAME).tex $(BASENAME).dvi $(BASENAME).log $(BASENAME).pdf
+		$(BASENAME).tex $(BASENAME).dvi $(BASENAME).log $(BASENAME).pdf\
+		slovnik.html
