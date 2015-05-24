@@ -22,7 +22,8 @@ $(BASENAME).html:	$(BASENAME).xml
 #	fop -fo $(BASENAME).fo -pdf $@
 
 $(BASENAME).tex:	$(BASENAME).xml
-	xsltproc --output historie_copyrightu.tex --xinclude tex.xsl vsechno.xml
+# sed  "s/\(\s\)\([kosvzKOSVZ]\)\( \|$\)/\1\2~/g"
+	xsltproc --xinclude tex.xsl vsechno.xml | sed -e 's/ \+/ /g' | sed -f tilde.sed  > historie_copyrightu.tex
 
 $(BASENAME).pdf:	$(BASENAME).tex
 	pdfcsplain $(BASENAME).tex
