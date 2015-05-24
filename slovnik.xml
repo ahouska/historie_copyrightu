@@ -128,30 +128,25 @@ by se mozna hodil tag <emphasis/>.
     </komentar>
   </termin>
 
-  <termin id="proprietary_plural">
+  <termin id="proprietary">
     <puvodni>proprietary</puvodni>
     <preklad pad="1">proprietární</preklad>
     <preklad pad="2">proprietárního</preklad>
-    <preklad pad="3">proprietárním</preklad>
+    <preklad pad="4">proprietární</preklad>
+    <preklad pad="6">proprietárním</preklad>
+    <!--
+	Tvary mnozneho cisla. Pro odliseni od jednotneho cisla se k padu
+	pricita 7.
+    -->
+    <preklad pad="8">proprietární</preklad>
+    <preklad pad="9">proprietárního</preklad>
+    <preklad pad="10">proprietárním</preklad>
     <komentar>
       (Software.) Spíše než hledisko otevřenosti resp. uzavřenosti zdrojového
       kódu (http://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_software)
       postihuje toto přídavné jméno skutečnost, že na daný program má někdo
       vlastniké právo. Teprve z toho vyplývá, že k programu často není k
       dispozici zdrojový kód.
-    </komentar>
-  </termin>
-
-  <termin id="proprietary_singular">
-    <puvodni>proprietary</puvodni>
-    <preklad pad="1">proprietární</preklad>
-    <preklad pad="2">proprietárního</preklad>
-    <preklad pad="4">proprietární</preklad>
-    <preklad pad="6">proprietárním</preklad>
-    <komentar>
-      Jednotné číslo výše uvedeného. Jen pro pořáadek samostatná položka ve
-      slovníku (zatím nevím, jestli se v textu vyskytuje pád, ve kterém má
-      slovo odlišný tvar od množného čísla).
     </komentar>
   </termin>
 
