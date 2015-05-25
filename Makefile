@@ -1,5 +1,5 @@
 BASENAME=historie_copyrightu
-DOCBOOK_ROOT=/usr/share/xml/docbook/stylesheet/nwalsh/current
+DOCBOOK_ROOT=http://docbook.sourceforge.net/release/xsl/current/
 
 all:	$(BASENAME).html $(BASENAME).pdf
 
