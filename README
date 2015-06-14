@@ -1,0 +1,18 @@
+Dokument ve formatu HTML a PDF vygenerujete prikazem
+
+make
+
+Predtim je potreba nainstalovat nasledujici balicky (RPM; nize uvedene jsou z
+operacniho systemu GNU/Linux, distribuce OpenSuSE 13.1):
+
+* make
+* xslt-tools
+* texlive-csplain-bin
+
+
+Pokud misto xslt-tools pouzijete jiny XSLT procesor, musite odpovidajicim
+zpusobem upravit soubor Makefile.
+
+Po odkomentovani prislusne casti Makefile lze k vytvoreni souboru PDF namisto
+TeXu pouzit program FOP (xmlgraphics-fop). V takovem pripade je vsak potreba
+doresit ceske fonty.
